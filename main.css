@@ -1,0 +1,35 @@
+.grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+
+img{
+  width: 220px;
+}
+
+.movie{
+  text-align: center;
+  align-self: center;
+  padding: 10px;
+}
+
+p{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  padding: 5px;
+  font-size: 10vh;
+}
+
+h4{
+  text-align: center;
+  padding-bottom:  100px;
+
+}
+
+body{
+font-family: 'Merriweather', serif;
+}
